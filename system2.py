@@ -9,6 +9,7 @@ class System():
     global plat
 
     def username(x):
+        # Don't know why, but Python gives a TypeError if you don't have an argument....
         return pwd.getpwuid(os.getuid()).pw_name
     
     def operating_system(x):

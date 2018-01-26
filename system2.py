@@ -18,5 +18,5 @@ class System():
         	os_return.append("macOS")
         	os_return.append(platform.mac_ver()[0])
         	return os_return
-       	elif plat == "":
+       	elif plat == "": # Fix for Linux/Windows, base off of macOS "Darwin" (above)
        		print "NULL"

@@ -1,6 +1,6 @@
-# System 2.0
+# System 2
 
-System 2.0 is a module that conslidates modules such as, `sys`, `platform`, `os`, and `pwd`.
+System 2 is a module that conslidates modules such as, `sys`, `platform`, `os`, and `pwd`.
 
 # How to Use
 https://github.com/hkamran80/system2.0/wiki/How-to-Use

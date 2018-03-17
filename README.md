@@ -3,7 +3,7 @@
 System 2.0 is a module that conslidates modules such as, `sys`, `platform`, `os`, and `pwd`.
 
 <br>
-Learn (how to use)[https://github.com/hkamran80/system2.0/wiki/How-to-Use] this module.
+Learn [how to use](https://github.com/hkamran80/system2.0/wiki/How-to-Use) this module.
 <br>
 
 Files:

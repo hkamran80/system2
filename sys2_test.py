@@ -1,6 +1,7 @@
 import system2
 
-sys2 = system2.System()
+# print() will work on Python 2.7+
 
-print sys2.username()
-print sys2.operating_system()
+print(system2.username)
+print(system2.operating_system)
+print(system2.ip_address)

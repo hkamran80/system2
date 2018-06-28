@@ -8,5 +8,5 @@ setup(name='systemx',
       author_email='hkamran@unisontech.org',
       license='GPLv3+',
       packages=['systemx'],
-      install_requires=[],
+      install_requires=["requests"],
       zip_safe=False)
